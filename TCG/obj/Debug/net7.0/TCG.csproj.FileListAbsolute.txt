@@ -1,0 +1,15 @@
+C:\Users\greyk\source\repos\TCG_kata\TCG\bin\Debug\net7.0\TCG.exe
+C:\Users\greyk\source\repos\TCG_kata\TCG\bin\Debug\net7.0\TCG.deps.json
+C:\Users\greyk\source\repos\TCG_kata\TCG\bin\Debug\net7.0\TCG.runtimeconfig.json
+C:\Users\greyk\source\repos\TCG_kata\TCG\bin\Debug\net7.0\TCG.dll
+C:\Users\greyk\source\repos\TCG_kata\TCG\bin\Debug\net7.0\TCG.pdb
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\TCG.csproj.AssemblyReference.cache
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\TCG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\TCG.AssemblyInfoInputs.cache
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\TCG.AssemblyInfo.cs
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\TCG.csproj.CoreCompileInputs.cache
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\TCG.dll
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\refint\TCG.dll
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\TCG.pdb
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\TCG.genruntimeconfig.cache
+C:\Users\greyk\source\repos\TCG_kata\TCG\obj\Debug\net7.0\ref\TCG.dll
